@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Goodness Ogunkola 
+- 👋 Hi, I’m Goodness Ogunkola  
 - 👀 I’m interested in Software Engineering, Business Analytics, Cybersecurity, Machine learning, product management
 - 🌱 I’m currently learning Computer Science at the University of the West Indies
 - 💞️ I’m looking to collaborate on ...
